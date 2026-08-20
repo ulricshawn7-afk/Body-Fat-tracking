@@ -1,3 +1,6 @@
-allowBuilds:
-  msw: set this to true or false
 packages:
+  - "."
+
+allowBuilds:
+  msw: true
+  
